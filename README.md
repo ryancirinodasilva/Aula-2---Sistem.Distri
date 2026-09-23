@@ -25,3 +25,6 @@ Para realizar as atividades praticas é necessário ter o Python Instalado na ma
 
 Na v1.0 (Client e Servidor) temos o que foi prosto em aula... Para executar basta copiar e colocar na IDE (Claro que há outras formas de fazer como pelo bloco de notas, no entanto não recomendo) e iniciar o arquivo, 1º Inicie o Servidor e Depois o Client
 Nessa primeira versão também foi prosto um erro forçado (v1.0 Erro forçado) para vermos quais seriam os possiveis erros de não executar da forma correta, e o erro foi que se não iniciarmos o servidor primeiro o client não pode fazer uma conexão
+
+Na v1.1 foi proposto alterar a mensagem pré-carregado por uma que o client enviaria a forma de executar e a mesma, no entanto agora no terminal vai aparecer para o client escrever uma mensagem que chegara para o lado do Server
+Obs: Troquei Servidor por Server para padronizar a nomenclatura.
