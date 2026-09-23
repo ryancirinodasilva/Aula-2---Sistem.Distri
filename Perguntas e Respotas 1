@@ -1,0 +1,16 @@
+Perguntas Propostas em Aula para Fixar o Conteúdo.
+
+Quem solicita o serviço?
+R: O Cliente solicita a um servidor
+
+Quem processa a solicitação?
+R: A Solicitação é processada no servidor
+
+Onde os dados estão armazenados?
+R: Os Dados estão armazenados no Servidor
+
+Como os componentes se comunicam?
+R: A Conexão é feita por Rede de Internet
+
+O Processamento está concentrado ou distruibuído?
+R: Em caso de P-2-P o Sistema é distruibuído, e também deve fazer um balanciamnto de carga
