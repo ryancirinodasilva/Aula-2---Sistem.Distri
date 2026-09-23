@@ -15,3 +15,8 @@ Foram estudadas principalmente três arquiteturas:
 Cliente-Servidor
 Peer-to-Peer (P2P)
 Arquiteturas em múltiplas camadas
+
+# Atividade Prática — Construindo uma Comunicação Cliente-Servidor
+Na aula anterior utilizamos um navegador como cliente. Hoje vamos criar os dois lados da comunicação usando Sockets em Python.
+
+O que é um Socket? É um mecanismo utilizado para permitir a comunicação entre processos através da rede. Nesta atividade utilizaremos TCP/IP + Python.
