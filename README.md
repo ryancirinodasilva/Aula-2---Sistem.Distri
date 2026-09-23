@@ -22,3 +22,6 @@ Na aula anterior utilizamos um navegador como cliente. Hoje vamos criar os dois 
 O que é um Socket? É um mecanismo utilizado para permitir a comunicação entre processos através da rede. Nesta atividade utilizaremos TCP/IP + Python.
 
 Para realizar as atividades praticas é necessário ter o Python Instalado na maquina como também uma IDE (Ex.: VSCode, PyCharm)
+
+Na v1.0 (Client e Servidor) temos o que foi prosto em aula... Para executar basta copiar e colocar na IDE (Claro que há outras formas de fazer como pelo bloco de notas, no entanto não recomendo) e iniciar o arquivo, 1º Inicie o Servidor e Depois o Client
+Nessa primeira versão também foi prosto um erro forçado (v1.0 Erro forçado) para vermos quais seriam os possiveis erros de não executar da forma correta, e o erro foi que se não iniciarmos o servidor primeiro o client não pode fazer uma conexão
