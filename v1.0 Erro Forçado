@@ -1,0 +1,6 @@
+C:\Users\aluno>python "C:\Users\aluno\Downloads\Aula 2 ( SD)\cliente.py"
+Traceback (most recent call last):
+  File "C:\Users\aluno\Downloads\Aula 2 ( SD)\cliente.py", line 5, in <module>
+    cliente.connect(("localhost", 5000))
+    ~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^
+ConnectionRefusedError: [WinError 10061] Nenhuma conexão pôde ser feita porque a máquina de destino as recusou ativamente
