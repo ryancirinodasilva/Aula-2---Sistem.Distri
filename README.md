@@ -20,3 +20,5 @@ Arquiteturas em múltiplas camadas
 Na aula anterior utilizamos um navegador como cliente. Hoje vamos criar os dois lados da comunicação usando Sockets em Python.
 
 O que é um Socket? É um mecanismo utilizado para permitir a comunicação entre processos através da rede. Nesta atividade utilizaremos TCP/IP + Python.
+
+Para realizar as atividades praticas é necessário ter o Python Instalado na maquina como também uma IDE (Ex.: VSCode, PyCharm)
